@@ -1,12 +1,10 @@
 # CS231n-Assignment
-CS231n Assignment - Alexander Hunter
+## CS231n Assignment - Alexander Hunter
 
-Assignment#1:
-  KNN - done
+## Assignment#1:
+    KNN - Done
 
-Assignment#2:
-  Pytorch TensorFlow - done
-  BN CN FN - almost done
+## Assignment#2:
   
-Assignment#3:
+## Assignment#3:
   

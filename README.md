@@ -2,7 +2,8 @@
 CS231n Assignment - Alexander Hunter
 
 ### Assignment#1:
-     * KNN - Done
+     KNN - Done
+     softmax - Done
 
 ###  Assignment#2:
   

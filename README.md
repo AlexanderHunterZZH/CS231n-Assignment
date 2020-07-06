@@ -5,9 +5,8 @@ Assignment#1:
   KNN - done
 
 Assignment#2:
-  Pytorch    - done
-  TensorFlow - done
-  BN CN FN   - almost done
+  Pytorch TensorFlow - done
+  BN CN FN - almost done
   
-Assignment#3
+Assignment#3:
   
